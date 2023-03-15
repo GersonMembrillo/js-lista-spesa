@@ -1,10 +1,15 @@
-.content{
-  background-color: lightgoldenrodyellow;
-  padding: 30px;
+body {
+  font-family: 'Kristi', sans-serif;
 }
 
-body{
-  font-family: 'Kristi', sans-serif;
+.container {
+  width: 100%;
+  height: 100vh;
+}
+
+.paper{
+  background-color: lightgoldenrodyellow;
+  padding: 30px;
 }
 
 h1 {
