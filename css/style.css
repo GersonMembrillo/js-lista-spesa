@@ -1,0 +1,19 @@
+.content{
+  background-color: lightgoldenrodyellow;
+  padding: 30px;
+}
+
+body{
+  font-family: 'Kristi', sans-serif;
+}
+
+h1 {
+  font-size: 4rem;
+}
+
+li{
+  font-size: 2rem;
+  border-bottom: 2px solid lightgrey;
+  list-style: none;
+  margin-right: 20px;
+}
